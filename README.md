@@ -1,3 +1,5 @@
+# obsidian
+
 ## 一个程序员关于ChatGPT梦开始的地方
 - ChatGPT官网 https://ai.com
 - Midjourney
